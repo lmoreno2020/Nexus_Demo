@@ -1,0 +1,9 @@
+pandas
+tensorflow
+sklearn
+numpy
+seaborn
+voila
+statsmodels
+ipywidgets
+papermill
